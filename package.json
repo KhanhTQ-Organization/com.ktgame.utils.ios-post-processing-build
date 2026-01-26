@@ -1,0 +1,16 @@
+{
+  "name": "com.ktgame.utils.ios-post-processing-build",
+  "version": "1.0.1",
+  "displayName": "com.ktgame.utils.ios-post-processing-build",
+  "description": "Ios Post Processing Build",
+  "unity": "2019.4",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": ""
+  },
+  "publishConfig": {
+    "registry": "http://3.25.208.95:4873"
+  },
+  "_fingerprint": "12478dadb0b0ec88146900f513b88a9ca1a1001d"
+}

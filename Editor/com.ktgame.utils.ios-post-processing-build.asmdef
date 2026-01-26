@@ -1,0 +1,17 @@
+{
+    "name": "com.ktgame.utils.ios-post-processing-build",
+    "rootNamespace": "com.ktgame.utils.ios_post_processing_build",
+    "references": [],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
